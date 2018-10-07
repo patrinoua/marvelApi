@@ -4,7 +4,7 @@ create a file secrets.json and add a privateKey and a publicKey provided by marv
 
 and then run
 
-npm init
+#npm init
 
 nodemon server.js
 
