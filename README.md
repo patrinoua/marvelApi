@@ -1,3 +1,5 @@
+http://marvel-spiced.herokuapp.com/
+
 To run this app run:
 
 create a file secrets.json and add a privateKey and a publicKey provided by marvel API.
