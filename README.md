@@ -1,3 +1,7 @@
+# Marvel Api
+
+![](https://github.com/patrinoua/marvelApi/blob/master/public/MarvelScreenshot.png)
+
 http://marvel-spiced.herokuapp.com/
 
 To run this app run:
